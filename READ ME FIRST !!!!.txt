@@ -1,0 +1,17 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Details for admin :  admin
+              Password  :  123
+Login Details for user  :  user@gmail.com 
+              Password  :  123
+
+
+
+DON'T FORGET TO CREATE A DATABASE WHICH NAME IS 'to-let' AND THEN IMPORT 'to-let.sql' FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+S.R. Shuva Dev -> 01883661903

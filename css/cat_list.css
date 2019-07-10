@@ -1,0 +1,52 @@
+/****
+    Style for post adds..
+    Designed and Developed by-S.R. Shuva Dev
+**/
+*{margin:0;padding:0;}
+a{text-decoration: none;}
+.category{
+	width: 768px;
+	margin: 75px auto;
+}
+.houses_category, .employment, .rent_a_car
+{
+    width: 218px;
+    float: left;
+}
+.houses_category{
+    margin-right:60px;
+    margin-bottom: 100px;
+}
+.rent_a_car{
+    width:210px;
+    margin-left:60px;
+}
+.all_cat_style {
+	width: 210px;
+	height: 51px;
+	background: #07da81;
+	margin-bottom: 10px;
+	border: 2px dotted white;
+	box-shadow: 0px 0px 4px #242323f0;
+}
+.all_cat_style img {
+	width: 45px;
+	height: 45px;
+	padding-left: 8px;
+	padding-top: 4px;
+}
+.houses_category span, .employment span, .rent_a_car span {
+	font-family: alef;
+	color: black;
+	font-size: 18px;
+	text-shadow: 1px 1px #338f37;
+	position: absolute;
+	margin-left: 6px;
+	margin-top: 14px;
+}
+.houses_category p, .employment p, .rent_a_car p{
+	font-family: calibri;
+	font-size: 25px;
+	color: #a42121;
+	margin-bottom: 10px;
+}

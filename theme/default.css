@@ -1,0 +1,31 @@
+.top {
+    background: red;
+}
+.menu_section .signin_login .search {
+    background: #fc8a1a;
+}
+.menu_section {
+    background: black;
+}
+.main_body .house_section a {
+    background: white;
+}
+.main_body .car_section a {
+    background: white;
+}
+.main_body .employment_section a {
+    background: white;
+}
+.fotter_section {
+    background: black;
+}
+.fotter_section .fotter_wrapper a {
+    color: wheat;
+}
+#logo .heading {
+    color: white;
+}
+#logo .title {
+    position: absolute;
+    color: wheat;
+}

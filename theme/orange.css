@@ -1,0 +1,24 @@
+.top {
+    background: #ffb92b;
+}
+.menu_section .signin_login .search {
+    background: #ffdb69;
+}
+#logo .heading {
+    color: #fbffa0;
+}
+.menu_section {
+    background: #1e1e1e;
+}
+.main_body .house_section a, .main_body .car_section a,.main_body .employment_section a{
+    background: #fffacb;
+}
+.main_body .house_section a:hover, .main_body .car_section a:hover,.main_body .employment_section a:hover{
+    background:white;
+}
+.fotter_section {
+    background: #000;
+}
+#social_area {
+    background: #fffdd4;
+}

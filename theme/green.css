@@ -1,0 +1,30 @@
+.top {
+    background: #a1ff4a;
+}
+#logo .heading {
+    color: #a1ff4a;
+}
+#logo .title {
+    color: #edffdd;
+}
+.menu_section .signin_login .search {
+    background: #cce600;
+}
+.menu_section {
+    background: #353535;
+}
+.main_body .house_section a {
+    background: #a1ff4a;
+}
+.main_body .car_section a {
+    background: #a1ff4a;
+}
+.main_body .employment_section a {
+    background: #a1ff4a;
+}
+.fotter_section {
+    background: #242424;
+}
+.fotter_section .fotter_wrapper a {
+    color: #f4f4f4;
+}
